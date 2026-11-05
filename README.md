@@ -1,4 +1,4 @@
-# MATLAB-Project-2
+# SVD-Image-Compression
 
 A MATLAB project applying Singular Value Decomposition (SVD) to perform image compression, evaluating matrix approximations at varying rank levels and measuring accuracy through RMSE.
 
